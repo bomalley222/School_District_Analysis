@@ -12,13 +12,13 @@ Jupyter Notebook Files: PyCitySchools.ipynb, PyCitySchools_Challenge.ipynb
 ## Results
 The questions below address the results of the comparative analysis.
 
-## ** How is the district summary affected?** 
+* **How is the district summary affected?** 
 The district summary comparison shows that the main difference between the initial and updated analysis is that the average math score decreased by 0.1% and the percent of students who passed math decreased by 0.2%. The average reading score remained the same, but the percent of students who passed reading decreased by 0.3%. The overall percent of students who passed only varied by 0.1%.
 
 **District Summary Comparison
 ![](Resources/district_summary_comparison.png)
 
-## * How is the school summary affected?
+* **How is the school summary affected?**
 The school summary indicates that Thomas High School was the only school whose scores were affected. There was a slight variance with the average math and reading scores, however the most significant changes in the data were with respect to the percentage of students who passed math and reading. The initial analysis shows that the percentage of Thomas Jefferson Students who passed math dropped from 93.272171% down to 66.911315% and the percentage who passed reading also dropped from 97.308869% to 69.663609%.
 
 * **Initial Analysis**
