@@ -29,20 +29,20 @@ The school summary indicates that Thomas High School was the only school whose s
 
 ![](Resources/new_school_summary.png)
 
-* **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+**How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 By replacing the ninth graders' math and reading scores, Thomas High School's performance ranking dropped from having the second highest percentage of overall students passing (90.94801%) down to having the eighth lowest percentage of overall students passing (65.07645%), in the district.
 
-* **How does replacing the ninth-grade scores affect the following:**
+**How does replacing the ninth-grade scores affect the following:**
 
 * **Math and Reading Scores by Grade:** Ninth grade math and reading scores dropped, when the scores were replaced to reflect NaN in the dataset.
 * **Scores by School Spending:** The spending range of $630 - $644 per student, at Thomas High School, remained the same. However, the percentage of overall students passing dropped from 79% to 63%, within that spending range.
 ![](Resources/school_spending_comparison.png)
 
-Scores by School Size: Thomas High School is a medium sized school, that falls within the 1000 - 2000 bracket of school size. Average math and reading scores within this bracket remained the same, however the percentage of students passing math and reading, both dropped by 6%. As such, schools within the medium school size bracket experienced a drop in percentage of overall students passing by 6%.
+* **Scores by School Size:** Thomas High School is a medium sized school, that falls within the 1000 - 2000 bracket of school size. Average math and reading scores within this bracket remained the same, however the percentage of students passing math and reading, both dropped by 6%. As such, schools within the medium school size bracket experienced a drop in percentage of overall students passing by 6%.
 
 ![](Resources/school_size_comparison.png)
 
-Scores by School Type: Charter schools consistently performed better than District schools. Although, replacing the ninth-grade scores did not have an impact on the average or percentage of passing math and reading scores, the percentage of overall students passing dropped by 20% for District Schools.
+* **Scores by School Type:** Charter schools consistently performed better than District schools. Although, replacing the ninth-grade scores did not have an impact on the average or percentage of passing math and reading scores, the percentage of overall students passing dropped by 20% for District Schools.
 ![](Resources/school_type_comparison.png)
 
 ## Summary
