@@ -15,7 +15,7 @@ The questions below address the results of the comparative analysis.
 * **How is the district summary affected?** 
 The district summary comparison shows that the main difference between the initial and updated analysis is that the average math score decreased by 0.1% and the percent of students who passed math decreased by 0.2%. The average reading score remained the same, but the percent of students who passed reading decreased by 0.3%. The overall percent of students who passed only varied by 0.1%.
 
-**District Summary Comparison
+**District Summary Comparison**
 ![](Resources/district_summary_comparison.png)
 
 * **How is the school summary affected?**
