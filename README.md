@@ -21,11 +21,11 @@ The district summary comparison shows that the main difference between the initi
 ## * How is the school summary affected?
 The school summary indicates that Thomas High School was the only school whose scores were affected. There was a slight variance with the average math and reading scores, however the most significant changes in the data were with respect to the percentage of students who passed math and reading. The initial analysis shows that the percentage of Thomas Jefferson Students who passed math dropped from 93.272171% down to 66.911315% and the percentage who passed reading also dropped from 97.308869% to 69.663609%.
 
-**Initial Analysis
+* **Initial Analysis
 
 ![](Resources/initial_school_summary.png)
 
-**Updated Analysis
+* **Updated Analysis
 
 ![](Resources/new_school_summary.png)
 
