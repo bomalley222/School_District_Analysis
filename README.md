@@ -12,7 +12,7 @@ Jupyter Notebook Files: PyCitySchools.ipynb, PyCitySchools_Challenge.ipynb
 ## Results
 The questions below address the results of the comparative analysis.
 
-## * How is the district summary affected?
+## ** How is the district summary affected?** 
 The district summary comparison shows that the main difference between the initial and updated analysis is that the average math score decreased by 0.1% and the percent of students who passed math decreased by 0.2%. The average reading score remained the same, but the percent of students who passed reading decreased by 0.3%. The overall percent of students who passed only varied by 0.1%.
 
 **District Summary Comparison
@@ -21,18 +21,18 @@ The district summary comparison shows that the main difference between the initi
 ## * How is the school summary affected?
 The school summary indicates that Thomas High School was the only school whose scores were affected. There was a slight variance with the average math and reading scores, however the most significant changes in the data were with respect to the percentage of students who passed math and reading. The initial analysis shows that the percentage of Thomas Jefferson Students who passed math dropped from 93.272171% down to 66.911315% and the percentage who passed reading also dropped from 97.308869% to 69.663609%.
 
-* **Initial Analysis
+* **Initial Analysis**
 
 ![](Resources/initial_school_summary.png)
 
-* **Updated Analysis
+* **Updated Analysis**
 
 ![](Resources/new_school_summary.png)
 
 * **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
 By replacing the ninth graders' math and reading scores, Thomas High School's performance ranking dropped from having the second highest percentage of overall students passing (90.94801%) down to having the eighth lowest percentage of overall students passing (65.07645%), in the district.
 
-* **How does replacing the ninth-grade scores affect the following:
+* **How does replacing the ninth-grade scores affect the following:**
 
 * **Math and Reading Scores by Grade:** Ninth grade math and reading scores dropped, when the scores were replaced to reflect NaN in the dataset.
 * **Scores by School Spending:** The spending range of $630 - $644 per student, at Thomas High School, remained the same. However, the percentage of overall students passing dropped from 79% to 63%, within that spending range.
